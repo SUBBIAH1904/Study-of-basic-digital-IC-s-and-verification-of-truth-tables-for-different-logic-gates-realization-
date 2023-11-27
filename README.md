@@ -58,7 +58,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 ###Program:
-![ex1](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/660155db-9792-4ada-9c9e-465d50487152)
+###![ex1](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/660155db-9792-4ada-9c9e-465d50487152)
 
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
@@ -66,10 +66,10 @@ Developed by: SUBBIAH S
 RegisterNumber:  23005732
 */
 ###Truthtable
-![Exp1 truthtable](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/3744bb02-bc19-4efd-b797-fdd332ab07a3)
+##![Exp1 truthtable](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/3744bb02-bc19-4efd-b797-fdd332ab07a3)
 
 ###RTL realization
-![ex](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/9fda7cba-ebb9-4a20-aefa-afabbaf99b4e)
+##![ex](https://github.com/SUBBIAH1904/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147473604/9fda7cba-ebb9-4a20-aefa-afabbaf99b4e)
 
 Output:
 ###TIMING DIAGRAM 
